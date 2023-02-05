@@ -4,7 +4,7 @@
 
 Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo.com/) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2019/2.
 
-# Contribuidores
+# Contribuidores:
 
 |Matrícula|Nome|GitHub|E-mail|
 |----------|---------------------------|------------------|-------------------------------|
